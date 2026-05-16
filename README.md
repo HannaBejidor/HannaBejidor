@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my abode!
+## Hi there! 👋 Welcome to my abode!
 
 <img width="1539" height="596" alt="Brown Vintage Tips and Tricks Facebook Cover" src="https://github.com/user-attachments/assets/c3b16679-e604-4f7e-a051-6256f2c06b66" />
 
@@ -6,23 +6,26 @@ Hello, my name is Hanna. I'm a Data Analyst with professional experience handlin
 
 
 
-### 📚 Projects
+## 📚 Projects
 
 - [Healthcare](https://github.com/HannaBejidor/Healthcare-Dataset)
 
 
 
-### 🛠️ Tools:
-- SQL (MySQL/BigQuery)
-- MS Excel
-- Power BI
+## ⚡Technical Skills:
+- SQL(MySQL & BigQuery): querying, data aggregation, transformation, filtering, JOINs, CTEs, and subqueries
+- MS Excel: XLOOKUP/VLOOKUP, pivot tables, dashboards, and data analysis
+-	Power BI: Power Query, interactive dashboard design and data visualisation
+-	Data Analysis: statistical-based insights, and trend identification with clinical datasets
+-	Reporting & Presentation: Stakeholder reports and PowerPoint presentations
 
 
 
-### 📫 You can find me at:
+
+## 📫 You can find me at:
 - LinkedIn:[HannaBejior](https://www.linkedin.com/in/hannabejidor/)
 
-- 
+- Email: hannabejidor@gmail.com
 <!--
 **HannaBejidor/HannaBejidor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

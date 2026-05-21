@@ -8,7 +8,8 @@ Hello, my name is Hanna. I'm a Data Analyst with professional experience handlin
 
 ## 📚 Projects
 
-- [Healthcare](https://github.com/HannaBejidor/Healthcare-Dataset)
+- Healthcare: [D-dimer test analysis](https://github.com/HannaBejidor/Healthcare-Dataset)
+- SQL Project: [Hospital admission](https://github.com/HannaBejidor/Hospital-admission/blob/main/README.md)
 
 
 

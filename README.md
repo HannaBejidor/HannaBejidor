@@ -2,7 +2,7 @@
 
 <img width="1539" height="596" alt="Brown Vintage Tips and Tricks Facebook Cover" src="https://github.com/user-attachments/assets/c3b16679-e604-4f7e-a051-6256f2c06b66" />
 
-Hello, my name is Hanna. I'm a Data Analyst with professional experience handling healthcare data, providing insights with laboratory sample flow, understanding diagnostic correlations with demographics and presenting data-driven findings to stakeholders.
+Hello, my name is Hanna. I'm an Aspiring Data Analyst with professional experience handling healthcare data, providing insights with laboratory sample flow, understanding diagnostic correlations with demographics and presenting data-driven findings to stakeholders.
 
 
 
